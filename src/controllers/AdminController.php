@@ -1,4 +1,4 @@
-<?php namespace Administrator\Controllers;
+<?php namespace Frozennode\Administrator;
 
 use Illuminate\Support\Arr;
 use Illuminate\Http\Request;

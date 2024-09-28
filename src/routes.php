@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Administrator\Controllers\AdminController;
+use Frozennode\Administrator\AdminController;
 use Frozennode\Administrator\Http\Middleware\PostValidate;
 use Frozennode\Administrator\Http\Middleware\ValidateAdmin;
 use Frozennode\Administrator\Http\Middleware\ValidateModel;
