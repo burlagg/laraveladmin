@@ -19,8 +19,8 @@
 		"issues": "https://github.com/exodusanto/Laravel-Admin/issues"
 	},
 	"require": {
-		"php": "^8.1",
-		"laravel/framework": "^10.0",
+		"php": "^8.2",
+		"laravel/framework": "^11.0",
 		"ckeditor/ckeditor": "4.*",
 		"mockery/mockery": "^1.5"
 	},
