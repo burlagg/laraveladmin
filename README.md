@@ -6,6 +6,11 @@ Original package is [exodusanto/Laravel-Admin](https://github.com/exodusanto/Lar
 
 ## Install / gUpdate
 
+### Laravel 11
+```sh
+composer require "burlagg/laravel-administrator: 11.*"
+```
+
 ### Laravel 10
 ```sh
 composer require "burlagg/laravel-administrator: 10.*"
