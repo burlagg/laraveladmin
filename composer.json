@@ -1,8 +1,8 @@
 {
-	"name": "exodusanto/administrator",
-	"description": "A database interface package for Laravel (Legacy of Frozennode Laravel-Administrator)",
-	"homepage": "http://administrator.frozennode.com",
-	"keywords": ["administrator", "admin", "database", "laravel-administrator", "laravel", "cms"],
+	"name": "burlagg/laravel-administrator",
+	"description": "Fork of Exodusanto (frozennode) Laravel Administrator. Supports newer versions of Laravel",
+	"homepage": "https://github.com/burlagg/laraveladmin",
+	"keywords": ["administrator", "admin", "database", "laravel-administrator", "laravel", "cms", "frozennode", "exodusanto"],
 	"license": "MIT",
 	"authors": [
 		{
@@ -14,9 +14,6 @@
 			"email": "info@antoniodalsie.com"
 		}
 	],
-	"support": {
-		"issues": "https://github.com/exodusanto/Laravel-Admin/issues"
-	},
 	"require": {
 		"php": "^8.1",
 		"laravel/framework": "^9.0",
