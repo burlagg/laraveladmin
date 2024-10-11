@@ -4,7 +4,12 @@
 This package is a fork made for support of newer Laravel versions.
 Original package is [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin), which was a fork of [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator).
 
-## Update
+## Install / gUpdate
+
+### Laravel 10
+```sh
+composer require "burlagg/laravel-administrator: 10.*"
+```
 
 ### Laravel 9
 ```sh
