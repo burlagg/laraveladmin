@@ -4,6 +4,13 @@
 This package is a fork made for support of newer Laravel versions.
 Original package is [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin), which was a fork of [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator).
 
+## Update
+
+### Laravel 9
+```sh
+composer require "burlagg/laravel-administrator: 9.*"
+```
+
 ## Original about
 Administrator is an administrative interface builder for [Laravel](http://laravel.com). With Administrator you can visually manage your Eloquent models and their relations, and also create stand-alone settings pages for storing site data and performing site tasks.
 - **Author:** Jan Hartigan
