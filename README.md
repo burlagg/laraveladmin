@@ -4,7 +4,9 @@
 This package is a fork made for support of newer Laravel versions.
 Original package is [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin), which was a fork of [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator).
 
-## Install / gUpdate
+Этот пакет - форк известных [exodusanto/Laravel-Admin](https://github.com/exodusanto/Laravel-Admin) и [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator), созданный для поддержки новый версий Laravel.
+
+## Install / Update
 
 ### Laravel 11
 ```sh
